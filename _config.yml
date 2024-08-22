@@ -17,7 +17,7 @@ url: "https://jakewilliamscode.github.io"
 
 # The ability to use custom themes.
 style:
-  theme: "dark"
+  theme: "original"
 
 # This will help you track who's visiting your website.
 tracking:
